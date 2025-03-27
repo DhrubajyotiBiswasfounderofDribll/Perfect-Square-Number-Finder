@@ -6,8 +6,8 @@ public class PerfectSquare{
         double numSqrt = Math.sqrt(num);
         if(num==numSqrt*numSqrt){
             System.out.println("It is a perfect square number");
-        } else{
-            System.out.println("It is not a perfect square number");
+        }else{
+            System.out.println("It is not a perfect square numbersf");
         }
     }
 }
